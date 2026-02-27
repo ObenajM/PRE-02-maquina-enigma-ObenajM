@@ -1,4 +1,4 @@
-"""Ejemplo del uso de la máquina Enigma."""
+"""Ejemplo del uso de la máquina Enigma ensayo."""
 
 from homework.enigma_machine import (
     apply_enigma_machine,
