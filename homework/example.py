@@ -1,5 +1,5 @@
 """Ejemplo del uso de la máquina Enigma."""
-
+# nuevo ensayo
 from homework.enigma_machine import (
     apply_enigma_machine,
     initialize_enigma_machine,
